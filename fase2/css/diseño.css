@@ -1,11 +1,11 @@
 header{
     background-color: rgb(19, 181, 202);
-    color: darkviolet;
+    color: rgb(0, 74, 211);
     padding: 20px;
 }
 
 nav{
-    background-color: rgb(219, 161, 73);
+    background-color:rgb(19, 181, 202);
     padding: 10px;
 }
 section{
@@ -14,12 +14,13 @@ section{
     background-color: rgb(56, 115, 224);
 }
 aside{
+    
     float: left;
     width: 40%;
-    background-color: darkslateblue;
+    background-color:rgb(56, 115, 224);
 }
 footer {
-    background-color: darkkhaki;
+    background-color:rgb(56, 115, 224);
     padding: 10px;
 }
 .contenedor::after{
